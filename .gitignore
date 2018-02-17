@@ -160,6 +160,9 @@ fabric.properties
 *.css.map
 
 ### Symfony ###
+/cache/*
+/log/*
+
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
